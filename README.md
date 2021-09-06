@@ -9,8 +9,7 @@ This Jupyter Notebook provides an analysis on an algorithmic trading system usin
 
 Looking at the classification report of the graphic below, this model has a 61% accuracy and the only downside would be there recall percentage of 31 in predicting -1.0. 
 
-![Baseline Trading Results]
-(Starter_Code/svm_model.PNG)
+![Baseline Trading Results](/Starter_Code/svm_model.PNG)
 
 ---
 
@@ -25,8 +24,7 @@ Looking at the classification report for the tuned algorithm, it has a 56% accur
 
 This model has a 57% percent accuracy, but fails to predict for -1.0 under precision and recall. This model performed worse than the baseline model and the tuned model. 
 
-![Tuned Trading Results]
-(Starter_Code/logistic_model.PNG)
+![Tuned Trading Results](/Starter_Code/logistic_model.PNG)
 
 ---
 
